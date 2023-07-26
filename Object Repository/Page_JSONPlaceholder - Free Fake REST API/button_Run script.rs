@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Run script</name>
+   <tag></tag>
+   <elementGuidId>8b4d9d38-b1fe-4fe1-a4a2-556ef3600c60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#run-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='run-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af52e8fb-67f0-49cb-a276-7134db3b9bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>run-button</value>
+      <webElementGuid>90f04991-9c15-4009-8637-40bdc3aead52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+      bg-green-500
+      hover:bg-green-700
+      text-white
+      font-bold
+      py-quarter
+      my-quarter
+      px-4
+      rounded
+    </value>
+      <webElementGuid>798806af-6f8f-49eb-9201-890dae0539ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Run script
+</value>
+      <webElementGuid>32a0349c-04e9-4921-8054-f2a2bd71a59e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;run-button&quot;)</value>
+      <webElementGuid>464428e0-000a-446e-9367-ee26e3f3ed24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='run-button']</value>
+      <webElementGuid>337c1171-0bbf-4e26-a43e-fb17ff5bd535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=')'])[5]/following::button[1]</value>
+      <webElementGuid>99372af2-3899-49c6-8b4e-f40802644203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=')'])[4]/following::button[1]</value>
+      <webElementGuid>4acf9bf3-53ff-496c-bad5-22597bd0ac28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{'])[1]/preceding::button[1]</value>
+      <webElementGuid>ca9329a8-405a-466f-a5e5-4b06110560e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='}'])[1]/preceding::button[1]</value>
+      <webElementGuid>0f2171e8-279e-4870-b5e4-403a54887fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Run script']/parent::*</value>
+      <webElementGuid>d7345e51-5f7b-41e7-b554-e41c1b133a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>4051a321-1b82-417c-a8d2-ab14e840851c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'run-button' and (text() = '
+Run script
+' or . = '
+Run script
+')]</value>
+      <webElementGuid>ea72c774-228d-4e97-85dd-54ed289b0d7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_What is Telerik Blazor Hybrid</name>
+   <tag></tag>
+   <elementGuidId>f611f478-50de-439b-b53f-a256af89e728</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContentPlaceholder1_T53129E6C012_Col00']/section/div/div[2]/div[2]/article/div[2]/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5fe684fd-f0e5-4872-adf1-c3bf51f05867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/videos/what-is-telerik-blazor-hybrid</value>
+      <webElementGuid>8e3cee96-fbf2-4f2c-825d-09645397f1b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-c-blue2 u-tdn</value>
+      <webElementGuid>421587a8-68e0-4976-ad1b-964e580a9df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track-instance</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>48b007aa-22b5-41ff-a8bf-260f220d1794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What is Telerik Blazor Hybrid?</value>
+      <webElementGuid>e294ccfb-398e-4ac4-ab79-8d24a74124b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceholder1_T53129E6C012_Col00&quot;)/section[@class=&quot;Section u-pb3 u-tint-blue1&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row row--equal&quot;]/div[@class=&quot;col-4 u-m-half u-mb3 u-s-mb3&quot;]/article[@class=&quot;video-card u-dfc u-pr u-mh100 u-pb3 u-br10 u-tint-white&quot;]/div[@class=&quot;u-p2&quot;]/h2[@class=&quot;u-fs24&quot;]/a[@class=&quot;u-c-blue2 u-tdn&quot;]</value>
+      <webElementGuid>2e9047c5-9952-4bb9-a0f6-8f9bd5987ede</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContentPlaceholder1_T53129E6C012_Col00']/section/div/div[2]/div[2]/article/div[2]/h2/a</value>
+      <webElementGuid>b2d22f99-e65f-4b5d-8b83-9a3a0a15e550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'What is Telerik Blazor Hybrid?')]</value>
+      <webElementGuid>b411c3b2-5ec8-42c5-9d1a-57d322d514a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telerik UI for Blazor'])[3]/following::a[1]</value>
+      <webElementGuid>f9e611e7-5603-4008-807d-70161a9fafa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[4]/following::a[2]</value>
+      <webElementGuid>359ee60a-d224-475e-9ffa-0d3a4decf0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch Video'])[5]/preceding::a[1]</value>
+      <webElementGuid>9bab3e0d-99cf-4710-8107-84e70101d828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 31, 2023'])[2]/preceding::a[2]</value>
+      <webElementGuid>56c59841-7662-4ed3-ba73-8ec675d12328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='What is Telerik Blazor Hybrid?']/parent::*</value>
+      <webElementGuid>2d44d6ef-5b43-4637-84eb-51032aab75a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/videos/what-is-telerik-blazor-hybrid')])[2]</value>
+      <webElementGuid>1350a08c-f8b8-488d-aa32-ab4f1847f73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/div[2]/article/div[2]/h2/a</value>
+      <webElementGuid>6d393608-8a8d-4606-b50c-62010cc0a6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/videos/what-is-telerik-blazor-hybrid' and (text() = 'What is Telerik Blazor Hybrid?' or . = 'What is Telerik Blazor Hybrid?')]</value>
+      <webElementGuid>f17e5608-2dda-487c-bdc7-5ec54ed07c82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
